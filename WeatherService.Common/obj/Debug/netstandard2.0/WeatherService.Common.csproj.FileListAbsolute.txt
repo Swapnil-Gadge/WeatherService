@@ -1,0 +1,16 @@
+C:\Users\swapnilg2\source\repos\WeatherService\WeatherService.Common\bin\Debug\netstandard2.0\WeatherService.Common.deps.json
+C:\Users\swapnilg2\source\repos\WeatherService\WeatherService.Common\bin\Debug\netstandard2.0\WeatherService.Common.dll
+C:\Users\swapnilg2\source\repos\WeatherService\WeatherService.Common\bin\Debug\netstandard2.0\WeatherService.Common.pdb
+C:\Users\swapnilg2\source\repos\WeatherService\WeatherService.Common\obj\Debug\netstandard2.0\WeatherService.Common.AssemblyInfoInputs.cache
+C:\Users\swapnilg2\source\repos\WeatherService\WeatherService.Common\obj\Debug\netstandard2.0\WeatherService.Common.AssemblyInfo.cs
+C:\Users\swapnilg2\source\repos\WeatherService\WeatherService.Common\obj\Debug\netstandard2.0\WeatherService.Common.dll
+C:\Users\swapnilg2\source\repos\WeatherService\WeatherService.Common\obj\Debug\netstandard2.0\WeatherService.Common.pdb
+C:\Users\swapnilg2\source\repos\WeatherService\WeatherService.Common\obj\Debug\netstandard2.0\WeatherService.Common.csprojAssemblyReference.cache
+C:\WeatherService\WeatherService.Common\bin\Debug\netstandard2.0\WeatherService.Common.deps.json
+C:\WeatherService\WeatherService.Common\bin\Debug\netstandard2.0\WeatherService.Common.dll
+C:\WeatherService\WeatherService.Common\bin\Debug\netstandard2.0\WeatherService.Common.pdb
+C:\WeatherService\WeatherService.Common\obj\Debug\netstandard2.0\WeatherService.Common.csprojAssemblyReference.cache
+C:\WeatherService\WeatherService.Common\obj\Debug\netstandard2.0\WeatherService.Common.AssemblyInfoInputs.cache
+C:\WeatherService\WeatherService.Common\obj\Debug\netstandard2.0\WeatherService.Common.AssemblyInfo.cs
+C:\WeatherService\WeatherService.Common\obj\Debug\netstandard2.0\WeatherService.Common.dll
+C:\WeatherService\WeatherService.Common\obj\Debug\netstandard2.0\WeatherService.Common.pdb
