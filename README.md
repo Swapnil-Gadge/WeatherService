@@ -15,6 +15,7 @@ User needs a way to fetch latest weather data for cities. Instead of fetching da
 ### How is it Developed
 1. Application is developed in VS 2019 using .NET CORE 3.1.
 2. Solution name is WeatherService.sln. Consist of 5 different projects. Weatherservice is API Project and also startup project of this solution.
+
 ![image](https://user-images.githubusercontent.com/98891535/152676657-583a4298-1f9a-4e8f-811f-8e209dc520c5.png)
 
 3. WeatherService contains APIs Controllers which will act as an entry point for user. They will server data to end users.
